@@ -1,0 +1,43 @@
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\bin\Debug\Ahorcado.xml
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbprojResolveAssemblyReference.cache
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Resources.resources
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbproj.GenerateResource.Cache
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.xml
+C:\Users\informatica\Documents\Visual Studio 2015\Projects\Cristian's Proyects\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.xml
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.xml
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbprojResolveAssemblyReference.cache
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Resources.resources
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbproj.GenerateResource.Cache
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe.config
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.exe
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.xml
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.pdb
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.exe
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.pdb
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\bin\Debug\Ahorcado.xml
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbprojResolveAssemblyReference.cache
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Form1.resources
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.Resources.resources
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbproj.GenerateResource.Cache
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\bin\Debug\Interop.WMPLib.dll
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\Interop.WMPLib.dll
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\TELLO\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbproj.ResolveComReference.cache
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\Interop.WMPLib.dll
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\obj\Debug\Ahorcado.vbproj.ResolveComReference.cache
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\bin\Debug\Interop.WMPLib.dll
+C:\Users\informatica\Desktop\Ahorcado\Ahorcado\bin\Debug\AxInterop.WMPLib.dll
